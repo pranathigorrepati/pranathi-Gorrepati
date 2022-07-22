@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is my first web page</title>
+</head>
+<body style="background-image:url(https://previews.123rf.com/images/rasslava/rasslava1505/rasslava150500119/41314631-modern-hanging-light-bulbs-isolated-on-white-background-with-place-for-your-text.jpg);>
+
+    <p style="colour:green;">Hi this is pranathi Gorrepati</p>
+    <h1 style="font-family:verdana;">I am doing my first web page
+    <h2>An unordered HTML list</h2>
+<ul>
+    <li>heading</li>
+    <li>font size</li>
+    <li>style</li>
+</ul>
+ <h2>An ordered HTML list</h2>
+ <ol>
+    <li>bold text</li>
+    <li>marked text</li>
+    <li>emphasized text</li>
+ </ol>
+ <h3>HTML Links</h3>
+ <a href="https://WWW.talentio.in/college-offerings/">visit talentio</a>
+</body>
+</html>
+
